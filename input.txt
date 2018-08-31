@@ -52,4 +52,3 @@ And this line too
 * One number again
  
 . The last line
- 

@@ -9,3 +9,7 @@ Execute below command to display output
 '''
 
 cat output.txt
+
+'''
+Added one more input data (input2.txt which is doubled copy of input.txt) and respective output2.txt with the new commit
+'''

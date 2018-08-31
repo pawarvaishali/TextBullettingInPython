@@ -44,7 +44,7 @@ for line in fileinput.input():
 			
 			else:
 				bulletLinesEx.append(indent*len(currBlt) + "  " + lineData.group(3).strip())
-
+bulletLines += bulletLinesEx
 				
 ''' write the output file '''
 	
